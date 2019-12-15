@@ -1,5 +1,4 @@
-//Osvaldo Sanches
-//Teste de funcionamento de arduino com led
+//Osvaldo Sanches - Teste de funcionamento de arduino com led
 
 #include <Arduino.h>
 
